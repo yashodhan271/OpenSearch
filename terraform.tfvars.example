@@ -1,0 +1,8 @@
+project_id = "your-project-id"
+region     = "us-central1"
+
+# Optional overrides
+# cluster_name = "custom-cluster-name"
+# network_name = "custom-network-name"
+# subnet_name  = "custom-subnet-name"
+# subnet_cidr  = "10.0.0.0/16"
